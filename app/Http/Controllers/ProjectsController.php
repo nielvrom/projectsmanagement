@@ -24,7 +24,7 @@ class ProjectsController extends Controller {
 	 */
 	public function create()
 	{
-		//
+		// soem commentaryyzqdsqd
         return view('products.create');
 	}
 
